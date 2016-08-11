@@ -18,7 +18,7 @@
   "dependencies": {
     "mjml-button": "^2.0.8",
     "mjml-cli": "^2.3.1",
-    "mjml-column": "^2.0.8",
+    "mjml-column": "git://github.com/linyi01/mjml-column.git",
     "mjml-container": "^2.0.8",
     "mjml-core": "^2.3.1",
     "mjml-divider": "^2.0.8",
